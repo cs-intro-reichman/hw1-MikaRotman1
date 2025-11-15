@@ -30,4 +30,7 @@ public class TimeFormat {
 	} 
         System.out.print(" " + timeType );
         }
+
 }
+
+// Looks good! i think it failed only because of the formatting of the string...looks like you were missing a space character
