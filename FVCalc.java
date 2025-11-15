@@ -8,3 +8,5 @@ public class FVCalc {
 	System.out.println("After " + n+  " years, $" + currentValue +" saved at "+ rate+"% will yield $"+ (int)futureValue);
 	}
 }
+
+// Notice that n is supposed to be input user, and not a fixed number :)
