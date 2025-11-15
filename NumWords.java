@@ -6,3 +6,7 @@ public class NumWords {
      
 	}
 }
+
+// I would take the nmath calculations into variables, for example:
+// int hundreds = number1/100;
+// int tens = (number1 / 10) % 10 ...
